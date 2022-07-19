@@ -22,3 +22,9 @@ button{
   display: flex;
   justify-content: center;
 }
+#buttonHi{
+background: green;	
+}
+#buttonLow{
+background: blue;	
+}
