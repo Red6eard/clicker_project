@@ -21,4 +21,11 @@ button{
 .input {
   display: flex;
   justify-content: center;
+  
+}
+#buttonLow{
+  background: blue;
+}
+#buttonHi{
+  background:green;
 }
