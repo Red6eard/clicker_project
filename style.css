@@ -7,6 +7,9 @@ body{
 h1{
   text-align: center;
 }
+.paragraph{
+  text-align: center;
+}
 .wrap{
   display: flex;
   justify-content: center;
